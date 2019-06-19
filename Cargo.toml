@@ -1,0 +1,8 @@
+[package]
+name = "clog-rs"
+version = "0.1.0"
+authors = ["ManojKumar <manoj.kumar@solarisbank.de>"]
+edition = "2018"
+
+[dependencies]
+clap = "2.33.0"
