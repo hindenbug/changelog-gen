@@ -1,9 +1,10 @@
 [package]
-name = "changelog-rs"
+name = "changelog-gen"
 version = "0.1.0"
-authors = ["ManojKumar <manoj.kumar@solarisbank.de>"]
+authors = ["hindenbug <manoj.mk27@gmail.com>"]
 edition = "2018"
 
 [dependencies]
 clap = "2.33.0"
 semver = "0.9.0"
+git2 = "0.10.1"
